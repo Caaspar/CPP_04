@@ -1,6 +1,5 @@
 # CPP_04
 
-CPP_04 est un projet du cursus 42.
 Le but est d’approfondir la **programmation orientée objet** à travers l’**héritage**, le **polymorphisme** et les **classes abstraites** en C++.
 
 ## Compilation
